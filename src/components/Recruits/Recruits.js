@@ -1,5 +1,4 @@
-import React, { useEffect } from 'react';
-import { useState } from 'react/cjs/react.development';
+import React, { useEffect, useState } from 'react';
 import Hired from '../Hired/Hired';
 import Recruit from '../Recruit/Recruit';
 import './Recruits.css'
